@@ -1,2 +1,2 @@
-# Khyati-Javascript
+# Koushik-Javascript
 EPAM Assignment
